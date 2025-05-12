@@ -1,0 +1,1 @@
+This is a simple Image Gallery web application built using HTML and CSS. The project displays a central featured image (CSS logo in this case) with a title and a row of clickable thumbnail icons representing various web technologies like HTML, JavaScript, React, Node.js, and CSS.
